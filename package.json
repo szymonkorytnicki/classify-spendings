@@ -1,0 +1,19 @@
+{
+  "name": "classify-spendings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szymonkorytnicki/classify-spendings.git"
+  },
+  "author": "Szymon Korytnicki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/szymonkorytnicki/classify-spendings/issues"
+  },
+  "homepage": "https://github.com/szymonkorytnicki/classify-spendings#readme"
+}
